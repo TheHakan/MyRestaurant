@@ -1,0 +1,17 @@
+c:\users\xaqan_000\documents\visual studio 2015\Projects\MyRestaurant\MyRestaurant\bin\Debug\MyRestaurant.exe
+c:\users\xaqan_000\documents\visual studio 2015\Projects\MyRestaurant\MyRestaurant\bin\Debug\MyRestaurant.pdb
+c:\users\xaqan_000\documents\visual studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.csprojResolveAssemblyReference.cache
+c:\users\xaqan_000\documents\visual studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.Form1.resources
+c:\users\xaqan_000\documents\visual studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.Properties.Resources.resources
+c:\users\xaqan_000\documents\visual studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.csproj.GenerateResource.Cache
+c:\users\xaqan_000\documents\visual studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.exe
+c:\users\xaqan_000\documents\visual studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.pdb
+D:\HakanFiles\Visual Studio 2015\Projects\MyRestaurant\MyRestaurant\bin\Debug\MyRestaurant.exe
+D:\HakanFiles\Visual Studio 2015\Projects\MyRestaurant\MyRestaurant\bin\Debug\MyRestaurant.pdb
+D:\HakanFiles\Visual Studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.Form1.resources
+D:\HakanFiles\Visual Studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.Properties.Resources.resources
+D:\HakanFiles\Visual Studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.csproj.GenerateResource.cache
+D:\HakanFiles\Visual Studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.exe
+D:\HakanFiles\Visual Studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.pdb
+D:\HakanFiles\Visual Studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.csproj.AssemblyReference.cache
+D:\HakanFiles\Visual Studio 2015\Projects\MyRestaurant\MyRestaurant\obj\Debug\MyRestaurant.csproj.CoreCompileInputs.cache
